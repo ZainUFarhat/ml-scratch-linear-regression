@@ -8,10 +8,10 @@ The following is my from scratch implementation of the Linear Regression algorit
 
 For datasets I used three datasets: \
 \
-    &emsp;1. Simple X vs. y Dataset 
-    &emsp;2. TV Marketing Dataset
+    &emsp;1. Simple X vs. y Dataset \
+    &emsp;2. TV Marketing Dataset \
     &emsp;3. BMI and Life Expectancy Dataset
-
+\
 For each dataset I load it and scale the predictor and respone variables to the range [0, 1]. This is to avoid the magnitude differences that can arise during the fitting process.
 
 ### **Walkthrough**
@@ -47,13 +47,13 @@ In addition I offer four visualization plots for a better assessment.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/xy/xy_scatter.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/xy/xy_scatter.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/xy/xy_loss.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/xy/xy_loss.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/xy/xy_fitted.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/xy/xy_fitted.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/xy/xy_alignment.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/xy/xy_alignment.png?raw=true)
 
 **2.** TV Marketing Dataset:
 
@@ -66,13 +66,13 @@ In addition I offer four visualization plots for a better assessment.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/tv/tv_scatter.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/tv/tv_scatter.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/tv/tv_loss.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/tv/tv_loss.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/tv/tv_fitted.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/tv/tv_fitted.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/tv/tv_alignment.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/tv/tv_alignment.png?raw=true)
 
 **3.** BMI and Life Expectancy Dataset:
 
@@ -85,10 +85,10 @@ In addition I offer four visualization plots for a better assessment.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/bmi/bmi_scatter.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/bmi/bmi_scatter.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/bmi/bmi_loss.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/bmi/bmi_loss.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/bmi/bmi_fitted.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/bmi/bmi_fitted.png?raw=true)
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/plots/bmi/bmi_alignment.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-linear-regression/blob/main/plots/bmi/bmi_alignment.png?raw=true)
