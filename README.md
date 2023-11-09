@@ -10,13 +10,13 @@ For datasets I used three datasets: \
 \
     &emsp;1. Simple X vs. y Dataset \
     &emsp;2. TV Marketing Dataset \
-    &emsp;3. BMI and Life Expectancy Dataset
+    &emsp;3. BMI and Life Expectancy Dataset \
 \
 For each dataset I load it and scale the predictor and respone variables to the range [0, 1]. This is to avoid the magnitude differences that can arise during the fitting process.
 
 ### **Walkthrough**
 
-**1.** Need the following packages installed: sklearn, numpy,and matplotlib.
+**1.** Need the following packages installed: sklearn, numpy, and matplotlib.
 
 **2.** Once you made sure all these libraries are installed, evrything is simple, just head to main.py and execute it.
 
@@ -38,7 +38,7 @@ In addition I offer four visualization plots for a better assessment.
 
 **1.** Simple X vs. y Dataset:
 
-- Hyperparameters
+- Hyperparameters:
      - Number of epochs = 1000
      - Learning rate = 0.1
  
@@ -57,7 +57,7 @@ In addition I offer four visualization plots for a better assessment.
 
 **2.** TV Marketing Dataset:
 
-- Hyperparameters
+- Hyperparameters:
      - Number of epochs = 100
      - Learning rate = 0.4
  
@@ -76,7 +76,7 @@ In addition I offer four visualization plots for a better assessment.
 
 **3.** BMI and Life Expectancy Dataset:
 
-- Hyperparameters
+- Hyperparameters:
      - Number of epochs = 1000
      - Learning rate = 0.1
  
