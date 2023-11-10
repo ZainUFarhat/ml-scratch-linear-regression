@@ -78,6 +78,7 @@ class LinearRegression():
         # return
         return mse_losses
     
+    # predict
     def predict(self, X):
 
         """

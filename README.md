@@ -6,7 +6,7 @@ The following is my from scratch implementation of the Linear Regression algorit
 
 ### **Dataset**
 
-For datasets I used three datasets: \
+I tested the performance of my model on three datasets:\
 \
     &emsp;1. Simple X vs. y Dataset \
     &emsp;2. TV Marketing Dataset \
